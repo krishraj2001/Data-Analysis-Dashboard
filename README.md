@@ -24,7 +24,7 @@ Created an advanced Excel dashboard for Fabric Flair Clothing to provide the own
 4.	Visualization:
 	Created pivot tables and charts to present the data insights visually.
 	Developed visual answers to predicted questions such as:
-	Which products performed best and worst in 2022?
+Which products performed best and worst in 2022?
 	What were the peak and slow sales months?
 	How did sales compare across different product categories?
 	These insights were key to guiding future decisions for inventory and promotions.
